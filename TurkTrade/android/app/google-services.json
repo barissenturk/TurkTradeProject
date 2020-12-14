@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780995865924",
+    "firebase_url": "https://turktrade-8d974.firebaseio.com",
+    "project_id": "turktrade-8d974",
+    "storage_bucket": "turktrade-8d974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780995865924:android:86958de40faaeba3987b11",
+        "android_client_info": {
+          "package_name": "com.turktrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780995865924-ud05kianrqtnqifafk7ghl07824ltc61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiUijk7j22E5Y069ThEivVW3FaZr2R9hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780995865924-ud05kianrqtnqifafk7ghl07824ltc61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

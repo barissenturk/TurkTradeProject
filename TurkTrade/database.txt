@@ -1,0 +1,4 @@
+ip:45.61.53.219
+username:turktrade
+db name(connection name olarak kullan):turktrade_data
+password:Tmz&c139
